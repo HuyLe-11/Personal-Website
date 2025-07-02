@@ -1,0 +1,21 @@
+.Content-container {
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+}
+
+.Content-basic_in4 {
+    font-family: "Poppins", sans-serif;
+    font-size: 2rem;
+    font-weight: 600;
+    line-height: 1.4;
+    max-width: 800px;
+}
+
+.hightlight {
+    font-weight: 700;
+    animation: fadeInUp 1s ease-out;
+}
+.edu-list {
+    list-style: circle;
+}

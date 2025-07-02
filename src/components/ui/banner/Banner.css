@@ -1,0 +1,23 @@
+.banner-container {
+    justify-content: space-between;
+    display: flex;
+    align-items: center;
+    width: 80%;
+    margin: 20px auto;
+    padding: 10px;
+    padding-bottom: 50px;
+    padding-top: 50px ;
+}
+
+.slogan-content {
+    font-family: "Poppins", sans-serif;
+    font-size: 5rem;
+    font-weight: 600;
+    line-height: 1.4;
+    max-width: 800px;
+}
+
+.hightlight {
+    font-weight: 700;
+    animation: fadeInUp 1s ease-out;
+}
