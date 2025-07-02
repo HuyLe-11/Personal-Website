@@ -1,7 +1,7 @@
 import Navbar from "@/components/ui/Navbar/Navbar";
 import Banner from "@/components/ui/banner/Banner";
 import Content from "@/components/ui/Content/Content";
-import '/Users/huylesmacbook/Documents/Web development/Pofo/client/src/view/Home.css'
+import './Home.css'
 
 export default function Home() {
     return (
